@@ -1,5 +1,5 @@
 /*
-https://leetcode.com/contest/weekly-contest-352/problems/prime-pairs-with-target-sum/
+https://leetcode.com/contest/weekly-contest-352/problems/prime-pairs-with-target-sum
 */
 #include <bits/stdc++.h>
 
